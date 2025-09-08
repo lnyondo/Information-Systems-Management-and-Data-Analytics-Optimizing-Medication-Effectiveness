@@ -25,3 +25,6 @@ The report consists of:
 
 📝 Considerable Recommendations – proposed strategies for healthcare providers to reduce readmissions and enhance patient outcomes
 
+### Project Files
+[DiabeticPython.ipynb](https://github.com/user-attachments/files/22200801/DiabeticPython.ipynb)
+[BA 5200 Final Project Report.pdf](https://github.com/user-attachments/files/22200804/BA.5200.Final.Project.Report.pdf)
